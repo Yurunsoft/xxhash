@@ -3,7 +3,7 @@
     "description": "xxHash implementation in Pure PHP",
     "type": "library",
     "require": {
-        "php": ">=7.4",
+        "php": ">=7.1",
         "ext-bcmath": "*"
     },
     "require-dev": {
